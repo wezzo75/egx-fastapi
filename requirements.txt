@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+tvdatafeed
+pandas
+matplotlib
+retry
+gspread
+gspread_dataframe
+nest-asyncio
+google-auth
