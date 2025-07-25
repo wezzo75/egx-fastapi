@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-tvdatafeed
+git+https://github.com/StreamAlpha/tvdatafeed.git
 pandas
 matplotlib
 retry
