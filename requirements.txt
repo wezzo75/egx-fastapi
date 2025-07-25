@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-git+https://github.com/openquant-ai/tvdatafeed.git
+git+https://github.com/open-egx/tvdatafeed.git
 pandas
 matplotlib
 retry
